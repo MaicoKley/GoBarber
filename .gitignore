@@ -105,3 +105,9 @@ dist
 
 # Debug
 .vscode
+
+# Database confi
+ormconfig.json
+
+# Config folder
+src/config
