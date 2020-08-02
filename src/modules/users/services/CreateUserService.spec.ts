@@ -16,7 +16,7 @@ describe('CreateUser', () => {
 
     const user = await createUser.execute({
       name: 'John Doe',
-      email: 'johndow@example.com',
+      email: 'johndoe@example.com',
       password: '123456',
     });
 
