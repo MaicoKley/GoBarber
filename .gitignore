@@ -109,9 +109,6 @@ dist
 # Database confi
 ormconfig.json
 
-# Config folder
-src/config
-
 # Temp folder
 tmp/*
 !tmp/.gitkeep
