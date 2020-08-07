@@ -25,7 +25,6 @@ export default class SESMailProvider implements IMailProvider {
 
   public async sendMail({
     to,
-    from,
     subject,
     templateData,
   }: ISendMailDTO): Promise<void> {
